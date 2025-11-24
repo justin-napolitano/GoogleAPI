@@ -21,6 +21,12 @@ seoSecondaryKeywords:
   - oauth2 authentication
   - python google api wrapper
 seoOptimized: true
+topicFamily: datascience
+topicFamilyConfidence: 0.9
+topicFamilyNotes: >-
+  The post focuses on Python wrappers for Google Sheets and Drive APIs with OAuth2, enabling
+  programmatic data workflows and integration with pandas. It matches data analysis and ETL
+  workflows typical of the datascience family more than the others.
 ---
 
 # GoogleAPI: A Python Integration for Google Sheets and Drive
@@ -78,3 +84,4 @@ The authentication flow relies on OAuth 2.0 credentials stored in `credentials.j
 ## Conclusion
 
 This project provides a foundational Python wrapper around Google Sheets and Drive APIs, abstracting authentication and service setup. While basic, it sets the stage for more advanced features like DataFrame integration and broader Drive operations. It is a practical starting point for developers needing programmatic access to Google Workspace resources within Python environments.
+
