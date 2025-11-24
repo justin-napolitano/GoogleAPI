@@ -1,12 +1,27 @@
 ---
-slug: "github-googleapi"
-title: "GoogleAPI"
-repo: "justin-napolitano/GoogleAPI"
-githubUrl: "https://github.com/justin-napolitano/GoogleAPI"
-generatedAt: "2025-11-23T09:04:31.912270Z"
-source: "github-auto"
+slug: github-googleapi
+title: Python Wrapper for Google Sheets and Drive APIs with OAuth Authentication
+repo: justin-napolitano/GoogleAPI
+githubUrl: https://github.com/justin-napolitano/GoogleAPI
+generatedAt: '2025-11-23T09:04:31.912270Z'
+source: github-auto
+summary: >-
+  Python classes that simplify OAuth2 authentication and service setup for Google Sheets and Drive
+  APIs, with a focus on API usage and extensibility.
+tags:
+  - python
+  - google-api
+  - google-sheets
+  - google-drive
+  - oauth2
+  - pandas
+seoPrimaryKeyword: google sheets api python
+seoSecondaryKeywords:
+  - google drive api python
+  - oauth2 authentication
+  - python google api wrapper
+seoOptimized: true
 ---
-
 
 # GoogleAPI: A Python Integration for Google Sheets and Drive
 
