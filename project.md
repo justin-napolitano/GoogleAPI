@@ -6,9 +6,7 @@ repo: justin-napolitano/GoogleAPI
 githubUrl: https://github.com/justin-napolitano/GoogleAPI
 generatedAt: '2025-11-24T21:35:01.568Z'
 source: github-auto
-summary: >-
-  Integrate Google Sheets and Drive with Python for streamlined data
-  manipulation and access.
+summary: Integrate Google Sheets and Drive with Python for streamlined data manipulation and access.
 tags:
   - google-api-python-client
   - google-auth
@@ -22,8 +20,8 @@ seoSecondaryKeywords:
   - pandas integration
   - oauth 2.0 credentials
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: datascience
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -91,4 +89,5 @@ GoogleAPI/
 - Expand Drive API capabilities beyond metadata reading, including file uploads and downloads.
 - Add comprehensive error handling and logging.
 - Provide examples and documentation for common use cases.
+
 
