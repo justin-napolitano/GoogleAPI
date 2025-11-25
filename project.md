@@ -1,20 +1,27 @@
 ---
 slug: github-googleapi
 id: github-googleapi
-title: GoogleAPI
+title: Python Google API Integration for Sheets and Drive
 repo: justin-napolitano/GoogleAPI
 githubUrl: https://github.com/justin-napolitano/GoogleAPI
 generatedAt: '2025-11-24T21:35:01.568Z'
 source: github-auto
 summary: >-
-  GoogleAPI provides Python integrations for Google Sheets and Google Drive,
-  facilitating access and manipulation of Google Sheets data and Drive files. It
-  aims to simplify workflows involving Google Sheets and pandas, with upcoming
-  features to export pandas DataFrames directly to Google Sheets.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Integrate Google Sheets and Drive with Python using Google API Client
+  Libraries for efficient data manipulation.
+tags:
+  - google-api-python-client
+  - google-auth
+  - pandas
+  - python
+seoPrimaryKeyword: google api python integration
+seoSecondaryKeywords:
+  - google sheets api
+  - google drive api
+  - python google api
+  - pandas to google sheets
+  - oauth 2.0 credentials
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
