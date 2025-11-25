@@ -1,13 +1,13 @@
 ---
 slug: github-googleapi
-title: Python Wrapper for Google Sheets and Drive APIs with OAuth Authentication
+title: Python Wrapper for Google Sheets and Drive APIs
 repo: justin-napolitano/GoogleAPI
 githubUrl: https://github.com/justin-napolitano/GoogleAPI
 generatedAt: '2025-11-23T09:04:31.912270Z'
 source: github-auto
 summary: >-
-  Python classes that simplify OAuth2 authentication and service setup for Google Sheets and Drive
-  APIs, with a focus on API usage and extensibility.
+  A straightforward Python integration for Google Sheets and Drive APIs,
+  simplifying authentication and API usage for data workflows.
 tags:
   - python
   - google-api
@@ -15,18 +15,23 @@ tags:
   - google-drive
   - oauth2
   - pandas
-seoPrimaryKeyword: google sheets api python
+seoPrimaryKeyword: python google sheets drive integration
 seoSecondaryKeywords:
-  - google drive api python
-  - oauth2 authentication
-  - python google api wrapper
+  - google sheets api python
+  - drive api python
+  - oauth2 authentication python
+  - pandas google sheets
+  - google api client library
 seoOptimized: true
 topicFamily: datascience
 topicFamilyConfidence: 0.9
 topicFamilyNotes: >-
-  The post focuses on Python wrappers for Google Sheets and Drive APIs with OAuth2, enabling
-  programmatic data workflows and integration with pandas. It matches data analysis and ETL
-  workflows typical of the datascience family more than the others.
+  The post focuses on Python wrappers for Google Sheets and Drive APIs with
+  OAuth2, enabling programmatic data workflows and integration with pandas. It
+  matches data analysis and ETL workflows typical of the datascience family more
+  than the others.
+kind: project
+id: github-googleapi
 ---
 
 # GoogleAPI: A Python Integration for Google Sheets and Drive
